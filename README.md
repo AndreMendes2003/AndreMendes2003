@@ -7,7 +7,7 @@
 <h3 align="center">Estudante de Ciências da Computação</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Og8L6NGjDQzFm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andremendes2003&label=Profile%20views&color=0e75b6&style=flat" alt="andremendes2003" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQxbGU0cmRnaTh2d3g0cGlrZ2M3M3R1am4wNnBrcnVqaW1nY3lsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KyIaRm6jYlAGyJ86zH/giphy.gif" alt="andremendes2003" /> </p>
 
 - 🌱 No momento estou aprendendo **Java** e **C** na PUC Minas
 
