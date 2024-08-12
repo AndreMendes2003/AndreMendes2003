@@ -12,7 +12,7 @@
 
 - 🧑‍🔬 Interessado em aprender cada vez mais
 
-- 🗣️ Proeficiência linguística: Português (nativo), espanhol (básico), inglês (avançado)
+- 🗣️ Proeficiência linguística: Português (nativo), espanhol (básico), inglês (intermediário)
 
 
 <h3 align="left">Entre em contato:</h3>
